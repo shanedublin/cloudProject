@@ -1,1 +1,4 @@
 .settings*
+target*
+src/main/resources/static/app/node_modules*
+src/main/resources/static/app/app/bower_components*
